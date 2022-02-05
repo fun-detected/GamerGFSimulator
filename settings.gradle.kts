@@ -6,5 +6,5 @@ pluginManagement {
     }
     
 }
-rootProject.name = "GamerGF"
+rootProject.name = "GamerGFSimulator"
 
